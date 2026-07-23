@@ -1,0 +1,496 @@
+Build a premium, modern, fully responsive Funeral Home website using HTML5, CSS3, and Vanilla JavaScript only (no React, Bootstrap, Tailwind or other frameworks).
+
+The company is called:
+
+SIYAHLUMA FUNERAL DIRECTORS
+
+The website should feel elegant, peaceful, trustworthy, professional, luxurious, and modern, similar to high-end funeral home websites.
+
+Design Style
+
+Use a modern luxury design with:
+
+White backgrounds
+Navy Blue (#0B2D5C)
+Gold (#C9A227)
+Dark Gray (#222)
+Light Gray backgrounds
+Plenty of white space
+Rounded cards
+Soft shadows
+Glassmorphism where appropriate
+Smooth animations
+Scroll reveal animations
+Hover effects
+Animated counters
+Elegant typography
+Large hero section
+Beautiful icons
+Professional stock images of funeral services (family support, flowers, hearses, memorial services, peaceful landscapes)
+Modern layout similar to premium corporate websites.
+
+Make everything responsive for:
+
+Desktop
+Tablet
+Mobile
+
+Use smooth scrolling.
+
+Pages
+
+Create:
+
+Home
+About Us
+Funeral Plans
+Services
+Branches
+Contact
+Navigation
+
+Sticky transparent navigation that changes on scroll.
+
+Navigation links:
+
+Home
+About
+Funeral Plans
+Services
+Branches
+Contact
+
+Include:
+
+Company logo placeholder
+Call Now button
+Hero Section
+
+Large fullscreen hero with an elegant funeral background.
+
+Overlay with dark gradient.
+
+Text:
+
+SIYAHLUMA FUNERAL DIRECTORS
+"Compassion, Dignity & Professional Funeral Services Since 2009"
+
+Short paragraph:
+
+We provide professional funeral services, funeral cover, repatriation, catering, decoration and complete funeral arrangements across South Africa with dignity, respect and compassion.
+
+Buttons:
+
+View Funeral Plans
+Contact Us
+
+Include subtle floating animation.
+
+About Section
+
+Include:
+
+Established in 2009
+
+SIYAHLUMA FUNERAL DIRECTORS was established in 2009 in Kariega (formerly Uitenhage) by Mvuselelo Mossie.
+
+The company provides professional funeral services and related funeral activities throughout South Africa.
+
+Mission
+
+Deliver compassionate and professional funeral services that comfort families during their most difficult moments.
+
+Vision
+
+To become South Africa's most trusted funeral service provider while demonstrating Christian values, compassion and excellence.
+
+Values
+
+Display as modern cards.
+
+Health & Safety
+
+Honesty
+
+Professionalism
+
+Respect
+
+Customer Commitment
+
+Services Section
+
+Create beautiful service cards with icons.
+
+Services include:
+
+Funeral Arrangements
+Funeral Cover
+Repatriation
+Decoration
+Catering
+Media Services
+Sound Systems
+Live Streaming
+Video Recording
+Slideshow Presentations
+Hearse Services
+Body Removal
+Death Registration
+Storage Facilities
+
+Each card should animate on hover.
+
+Funeral Plans
+
+Create premium pricing cards.
+
+Include:
+
+Individual Cover
+
+Starting from
+
+R45/month
+
+Benefits:
+
+Removal of body
+Storage
+Death Registration
+Casket
+Coffin Spray
+Hearse
+Funeral Programmes
+Bus
+Decoration
+Gravesite Reservation
+
+Waiting Period:
+
+6 Months
+
+Member + Children
+
+R65/month
+
+Include same benefits.
+
+Member + Spouse
+
+R90/month
+
+Include same benefits.
+
+Member + Spouse + Children
+
+R150/month
+
+Include same benefits.
+
+Traditional Funeral Plan
+
+Starting from
+
+R285/month
+
+Features:
+
+Up to 13 Dependents
+Same benefits for every member
+Different surnames accepted
+Whole Life Cover
+Maximum entry age 84
+
+For every plan include:
+
+Optional Benefits
+
+Trailer Hearse
+Repatriation
+Tombstone
+
+Add attractive "Apply Now" buttons.
+
+Benefits Section
+
+Create a modern icon grid.
+
+Benefits:
+
+✓ Removal of body
+
+✓ Storage
+
+✓ Registration of death
+
+✓ Hearse
+
+✓ Casket
+
+✓ Coffin Spray
+
+✓ Funeral Programmes
+
+✓ Big Cross
+
+✓ Bus
+
+✓ Decoration
+
+✓ Gravesite Reservation
+
+Waiting Period Section
+
+Beautiful timeline design.
+
+Display:
+
+6 Months General Waiting Period
+No Waiting Period for Accidental Death after registration
+24 Months Waiting Period for Suicide
+Repatriation Section
+
+Large banner.
+
+Title:
+
+Repatriation Across South Africa
+
+Text:
+
+We transport the deceased from the place of death to the place of burial anywhere in South Africa with dignity and professionalism.
+
+Include a truck/hearse image.
+
+Media Services
+
+Cards:
+
+Professional Sound System
+Live Streaming
+Video Recording
+Memorial Slideshow
+Branches Section
+
+Create elegant location cards.
+
+Head Office
+
+2 Khama Street
+
+KwaNobuhle
+
+Kariega
+
+6242
+
+Phone
+
+041 065 0929
+
+Branch 1
+
+45 Mabandla Road
+
+KwaNobuhle
+
+Kariega
+
+6242
+
+Phone
+
+041 065 0930
+
+Branch 2
+
+33 Mzwabantu Street
+
+Joe Slovo
+
+Gqeberha
+
+Phone
+
+071 960 9536
+
+Branch 3
+
+Plettenberg Bay
+
+Information Coming Soon
+
+Emergency
+
+061 547 0516
+
+Emergency Numbers
+
+Display inside attractive colored cards.
+
+Emergency
+
+061 547 0516
+
+Decoration & Catering
+
+083 719 8006
+
+Repatriation
+
+078 246 2124
+
+Statistics Section
+
+Animated counters.
+
+17+
+
+Years of Experience
+
+4
+
+Branches
+
+1000+
+
+Families Assisted
+
+24/7
+
+Support
+
+Testimonials
+
+Modern testimonial slider.
+
+Example testimonials.
+
+Contact Section
+
+Beautiful contact form.
+
+Fields:
+
+Name
+Phone
+Email
+Subject
+Message
+
+Button:
+
+Send Message
+
+Beside it display:
+
+Head Office Address
+
+Phone Numbers
+
+Emergency Contacts
+
+Business Hours
+
+Google Maps placeholder.
+
+Footer
+
+Elegant dark footer.
+
+Include:
+
+Quick Links
+
+Services
+
+Branches
+
+Contact Numbers
+
+Emergency Numbers
+
+Copyright
+
+Social media icons
+
+Extra Features
+
+Include:
+
+Back-to-top button
+
+Loading animation
+
+Scroll animations
+
+Sticky navbar
+
+Smooth scrolling
+
+Modern button hover effects
+
+Animated cards
+
+Image hover zoom
+
+Accordion FAQ
+
+Lightbox gallery
+
+Responsive hamburger menu
+
+Floating WhatsApp button
+
+Click-to-call phone buttons
+
+SEO
+
+Include proper:
+
+Meta title
+
+Meta description
+
+Open Graph tags
+
+Semantic HTML
+
+Alt text
+
+Proper headings
+
+JavaScript
+
+Use JavaScript for:
+
+Mobile menu
+Scroll animations
+Animated counters
+FAQ accordion
+Hero slider
+Back-to-top button
+Sticky navbar
+Contact form validation
+Smooth scrolling
+Folder Structure
+/index.html
+/about.html
+/plans.html
+/services.html
+/branches.html
+/contact.html
+
+/css
+    style.css
+    responsive.css
+    animations.css
+
+/js
+    script.js
+
+/images
+Final Goal
+
+The final website should look like a premium corporate funeral services website, comparable to those of leading funeral providers. It should be clean, calming, elegant, emotionally reassuring, and fully responsive, with smooth animations and an intuitive user experience. Avoid generic templates or outdated designs, and ensure all text is editable and well organized.

@@ -1,0 +1,97 @@
+Add an "Apply Online" Registration Page
+
+Create a dedicated Apply Online page that allows visitors to register for a funeral plan online through a professional, secure, and user-friendly application form. The page should match the rest of the website's premium design and be fully responsive.
+
+Personal Details
+
+Include the following fields:
+
+Full Name
+South African ID Number
+Date of Birth
+Gender
+Marital Status
+Phone Number
+Alternative Phone Number
+Email Address
+Residential Address
+Postal Address
+Funeral Plan Selection
+
+Provide a dropdown or card selection for the following plans:
+
+Individual Cover (From R45/month)
+Member & Children (From R65/month)
+Member & Spouse (From R90/month)
+Member, Spouse & Children (From R150/month)
+Traditional Family Plan (From R285/month)
+Beneficiary Details
+
+Include:
+
+Beneficiary Full Name
+Relationship to Member
+Contact Number
+South African ID Number
+Dependants
+
+Allow applicants to dynamically add multiple dependants using an "Add Dependant" button. Each dependant should include:
+
+Full Name
+ID Number
+Date of Birth
+Relationship
+Banking Details (Debit Order)
+
+Include the following fields:
+
+Bank Name
+Account Holder
+Account Number
+Branch Code
+Account Type
+Preferred Debit Order Date (1st, 15th, 25th, or Last Day of the Month)
+Supporting Documents
+
+Allow applicants to upload the following documents:
+
+South African ID Copy
+Proof of Residence
+Bank Confirmation Letter
+Death Certificate (for claims where applicable)
+Declaration
+
+Include a required checkbox with the following declaration:
+
+"I declare that the information provided is true and correct, and I agree to the Terms & Conditions of SIYAHLUMA FUNERAL DIRECTORS."
+
+Form Actions
+
+At the bottom of the form, include the following buttons:
+
+Submit Application
+Save as PDF (Optional)
+Print Application
+
+Implement JavaScript validation to ensure all required fields are completed before submission, with clear success and error messages.
+
+Banking Details Section
+
+Add a professional Payment Information section where the company's banking details can be displayed. Use placeholders that can easily be updated later.
+
+Display the following:
+
+Bank Name
+Account Name
+Account Number
+Branch Code
+Account Type
+Payment Reference Instructions
+
+Include a note stating:
+
+"Please use your ID Number or Policy Number as your payment reference when making EFT payments."
+
+Also include a placeholder for a QR Code for EFT Payments, allowing customers to scan and pay easily once the banking details are available.
+
+The Banking Details section should be designed as a clean, secure-looking card with banking icons and should fit seamlessly with the overall premium look and feel of the website.
